@@ -1,6 +1,6 @@
 {
   "Dispositivo": {
-    "serial": { 
+    "id": { 
       "int": { 
         "min": 100000, 
         "max": 1000000 

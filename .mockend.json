@@ -23,7 +23,8 @@
         "Mac OS",
         "Linux",
         "Android",
-        "iOS"
+        "iOS",
+        ""
       ]
     },
     "createdAt": {

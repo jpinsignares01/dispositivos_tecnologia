@@ -3,7 +3,7 @@
     "nombre": {
       "loremWords": { "minLength": 5, "maxLength": 20 }
     },
-    "tipo": {
+    "tipo_dispositivo": {
       "string": [
         "PC",
         "Mouse",
